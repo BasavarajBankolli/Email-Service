@@ -32,7 +32,8 @@ Overall, this project demonstrates a resilient and fault-tolerant email sending 
     ```
 ## Testing the API with Postman Example
 ![alt text](images/image.png)
-
+![alt text](images/image1.png)
+![alt text](images/images2.png)
 
 ## API Endpoints
    http://localhost:3000/send-email
