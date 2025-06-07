@@ -1,4 +1,26 @@
-node_modules
-dist
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment variables
 .env
 
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Test coverage
+coverage/
+
+# OS generated files
+*.swp
